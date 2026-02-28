@@ -1,3 +1,5 @@
+#crosswordanswerfinder
+
 Crossword Answer Finder is a free crossword solving tool built by a puzzle
 enthusiast. It searches 350,000+ real published crossword clues from 7 major
 publications to find answers instantly.
